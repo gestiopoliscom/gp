@@ -1,2 +1,0 @@
-# gp
-Backup Aprendizaje GitHub 
